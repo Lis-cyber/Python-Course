@@ -6,3 +6,8 @@ bookName = "" #Camel Case
 BookName = "" #Pascal Case
 
 PI = 3.1416 #Constante
+
+# ------------------------
+bill = int(input())
+tip = bill * 20/100
+print(tip)
