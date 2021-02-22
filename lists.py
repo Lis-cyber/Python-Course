@@ -85,6 +85,7 @@ for x in colors:
   demolist.append(x) # Add a list inside other
 list1.extend(list2) # Append to the final
 
+# ------------------------------------------------------------------------
 
 print(dir(colors))
 # List Methods
